@@ -1,2 +1,2 @@
 # Peri
-Exploreing website
+Exploring website
